@@ -252,5 +252,5 @@ MIT License - See LICENSE file for details
 
 ## Repository
 
-**GitHub:** [https://github.com/Dias266/Embedded-Systems-and-Internet-of-Thing](https://github.com/Dias266/Embedded-Systems-and-Internet-of-Thing)
+**GitHub:** (https://github.com/maryanneselirio/Embedded-Systems-and-Internet-of-Things)
 
